@@ -1,0 +1,21 @@
+# macOS system file
+.DS_Store
+
+# KiCad files
+fp-info-cache
+*.kicad_prl
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*-backups/
+*.bak
+\#auto_saved_files\#
+_autosave-*
+
+# Gerber .zip
+*.zip
+
+# FW files
+actuator-fw/build/
+
+# VSCode configuration
+.vscode/

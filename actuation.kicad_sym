@@ -325,7 +325,7 @@
       )
     )
     (symbol "PCA9534_0_1"
-      (rectangle (start 3.81 -1.27) (end -4.445 -20.955)
+      (rectangle (start 3.81 -1.27) (end -4.445 -21.59)
         (stroke (width 0) (type default) (color 0 0 0 0))
         (fill (type background))
       )

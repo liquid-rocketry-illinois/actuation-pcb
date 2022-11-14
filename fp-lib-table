@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "actuation")(type "KiCad")(uri "${KIPRJMOD}/actuation.pretty")(options "")(descr ""))
+)

@@ -420,6 +420,10 @@
     [
       "fb8ad72d-4567-40d4-a185-735199b25125",
       "Actuator Channels"
+    ],
+    [
+      "2330c4d7-2ab7-4b99-8e5d-6a68e3c59825",
+      "Feedback Channels"
     ]
   ],
   "text_variables": {}

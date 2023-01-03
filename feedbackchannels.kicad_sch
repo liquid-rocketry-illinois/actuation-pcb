@@ -3561,7 +3561,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 7d88b343-8ef7-4c1a-a7b1-a480a468c9ba)
   )
-  (text "~6.3mA LED drive per channel at Vf=1.65\nUp to 50mA total\nOutput on FB_CHx is 3mA max"
+  (text "~6.3mA LED drive per channel at Vf=1.65\nUp to 55mA total from 3.3V_ACT\nOutput on FB_CHx is 3mA max\nInverted- limit switch shorted is FB_CHx low"
     (at 41.91 153.67 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 7de136fd-b720-4b61-a148-ca6b530bbfc5)

@@ -1683,6 +1683,14 @@
     (uuid fa911703-cd01-4b58-a21c-042f13ebc36f)
   )
 
+  (text "18-25mA 3.3V consumption" (at 104.14 83.82 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 2ba7deb9-fa56-475c-8dd0-74a2738acc49)
+  )
+  (text "<1mA 3.3V consumption" (at 173.99 83.82 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 5b4f58f8-d33a-444b-b3e4-d0e1818caa8d)
+  )
   (text "Power In and Current Sense" (at 15.24 88.9 0)
     (effects (font (size 2 2) bold) (justify left bottom))
     (uuid 98505d72-c049-4cff-ac1a-e838db79f547)
@@ -1704,7 +1712,7 @@
     (effects (font (size 2 2) bold) (justify left bottom))
     (uuid cf120330-81c5-4fb8-a86c-7e5030a2df49)
   )
-  (text "ARM must be high to allow the \nmechanical relay to turn on,\nso the C&C can perform safety checks \nbefore applying actuator power\n\n12.2mA through NMOS when armed"
+  (text "ARM must be high to allow the \nmechanical relay to turn on,\nso the C&C can perform safety checks \nbefore applying actuator power\n\n7.1-8.2mA through NMOS when armed"
     (at 191.77 127 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d0cf90c2-8429-4123-aa5d-ccbbf2314442)

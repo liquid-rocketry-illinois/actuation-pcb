@@ -2709,12 +2709,13 @@
     (uuid ff15a3f9-432f-49d9-9a72-a64fcb463c1a)
   )
 
-  (text "LED on when channel is on" (at 215.9 195.58 0)
+  (text "LED on when channel is on\n2.8mA per, 44.3mA for 16 channels"
+    (at 215.9 195.58 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 087f5011-9ae0-4841-9129-9ca10bccd068)
   )
-  (text "SSRs rated for 2A output, trigger with 5-25mA\nForward voltage of internal LED is 1.1-1.4V\n270Ω limits input current to 12.2mA max\n 8 channels: 16A output,  98mA input\n16 channels: 32A output, 196mA input\nFalstad circuit sim with LED forward voltage: 8-9mA per\n\n"
-    (at 60.96 29.21 0)
+  (text "SSRs rated for 2A output, trigger with 5-25mA\nForward voltage of internal LED is 1.1-1.4V\n270Ω limits input current to 8.2mA max\n 8 channels: 16A output,  66mA input\n16 channels: 32A output, 131mA input\n\n"
+    (at 66.04 27.94 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 34838aa8-c7df-49c9-a727-8562bf0790d6)
   )
@@ -2735,7 +2736,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d4b339b8-c59a-467f-b60e-af7d4d8e8279)
   )
-  (text "Set ACT_CH3 low to actuate solenoid\nHIGH state is minimum 2.9V\n\nMax sink:   250mA total, 25mA per pin\nMax source: 160mA total, 10mA per pin\nAll channels on: 96mA sink by PCA9534\nAll channels off: 0-12mA sink by PCA9534"
+  (text "Set ACT_CH3 low to actuate solenoid\nHIGH state is minimum 2.9V\n\nMax sink:   250mA total, 25mA per pin\nMax source: 160mA total, 10mA per pin\nAll on: 66mA SSRs, 22mA LEDs sunk by PCA9534"
     (at 237.49 45.72 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid f9365aee-2534-4e33-bcfe-9e2976e9f64c)

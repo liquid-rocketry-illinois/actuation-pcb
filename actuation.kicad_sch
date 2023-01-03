@@ -1203,6 +1203,10 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid ef2919bf-66e3-447c-a07d-e0c7e92862d7)
   )
+  (wire (pts (xy 68.58 148.59) (xy 74.93 148.59))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid f1dcabc5-a21c-4d62-b6fb-fc88a940f9f5)
+  )
   (wire (pts (xy 29.21 35.56) (xy 36.83 35.56))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid fb3a2d61-9e70-44f0-af13-08cd7a3fd0f1)
@@ -1260,6 +1264,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid e813d08a-eb67-4c9b-8882-ed404f6bf241)
   )
+  (label "ARM" (at 68.58 148.59 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid ecf58409-685a-47c0-910e-6e77e8c06e05)
+  )
   (label "SCL" (at 168.91 64.77 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid ed288e8f-2c3d-4c2d-86d4-6c49b3c4bf7a)
@@ -1268,7 +1276,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid f2c44d6f-5cbb-4622-bfc8-9725cd05c9ec)
   )
-  (label "ACT_P5" (at 29.21 50.8 0)
+  (label "ARM" (at 29.21 50.8 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid f94fc57c-896e-4ba2-9a88-27efc0b1b1e6)
   )
@@ -1953,29 +1961,33 @@
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid 8e6de1ef-2a3a-483c-bbbf-0a1391db7252)
     )
-    (pin "SDA" input (at 104.14 167.64 180)
+    (pin "SDA" bidirectional (at 104.14 167.64 180)
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid 60815d84-3dba-4d9a-afc7-f8b39ee2546b)
     )
   )
 
-  (sheet (at 74.93 137.16) (size 17.78 10.16) (fields_autoplaced)
+  (sheet (at 74.93 137.16) (size 17.78 15.24) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
     (uuid 6d7df23a-0810-4327-8a09-0091cb17fdd4)
     (property "Sheet name" "Power" (id 0) (at 74.93 136.4484 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheet file" "power.kicad_sch" (id 1) (at 74.93 147.9046 0)
+    (property "Sheet file" "power.kicad_sch" (id 1) (at 74.93 152.9846 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (pin "SCL" input (at 74.93 140.97 180)
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid 49ccf37e-0d5a-4951-ae02-eb49384617d7)
     )
-    (pin "SDA" input (at 74.93 143.51 180)
+    (pin "SDA" bidirectional (at 74.93 143.51 180)
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid ecd19916-5766-4b3c-b751-b395a4768bba)
+    )
+    (pin "ARM" input (at 74.93 148.59 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid d0eadb16-2c49-4d0d-873d-85eded0fb2f3)
     )
   )
 
@@ -1989,7 +2001,7 @@
     (property "Sheet file" "actuatorchannels.kicad_sch" (id 1) (at 49.53 172.0346 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
-    (pin "SDA" input (at 49.53 167.64 180)
+    (pin "SDA" bidirectional (at 49.53 167.64 180)
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid f3254300-79b6-4489-853c-4147ee4f1c58)
     )
@@ -2069,6 +2081,9 @@
     )
     (path "/6d7df23a-0810-4327-8a09-0091cb17fdd4/2bfab855-cef9-4923-94c4-24849fe11bd2"
       (reference "#PWR?") (unit 1) (value "Vdrive") (footprint "")
+    )
+    (path "/6d7df23a-0810-4327-8a09-0091cb17fdd4/2cabdfc7-438a-44a3-9d3c-ecd1d596b1da"
+      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/2330c4d7-2ab7-4b99-8e5d-6a68e3c59825/2d684834-4846-4c7d-b7c9-426b1e2375a5"
       (reference "#PWR?") (unit 1) (value "GNDPWR") (footprint "")
@@ -2198,6 +2213,9 @@
     )
     (path "/fb8ad72d-4567-40d4-a185-735199b25125/7f6efa90-07f1-4181-8d28-bcc279ebb285"
       (reference "#PWR?") (unit 1) (value "Vdrive") (footprint "")
+    )
+    (path "/6d7df23a-0810-4327-8a09-0091cb17fdd4/81c41544-e91a-4f7a-8d2e-932ff2f3bc12"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/2330c4d7-2ab7-4b99-8e5d-6a68e3c59825/82363996-b218-4664-b407-4584ed099ca7"
       (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
@@ -2538,6 +2556,9 @@
     (path "/fb8ad72d-4567-40d4-a185-735199b25125/3108715d-1952-4a1b-ab62-6fc445d9816b"
       (reference "D?") (unit 1) (value "B2100A-13-F") (footprint "Diode_SMD:D_SMA")
     )
+    (path "/6d7df23a-0810-4327-8a09-0091cb17fdd4/356172c7-f6b7-4240-9af1-da89d8de5bfd"
+      (reference "D?") (unit 1) (value "B2100A-13-F") (footprint "Diode_SMD:D_SMA")
+    )
     (path "/fb8ad72d-4567-40d4-a185-735199b25125/428f0d3a-d84e-4121-9d91-57767c6f5216"
       (reference "D?") (unit 1) (value "ACT CH8") (footprint "")
     )
@@ -2707,13 +2728,16 @@
       (reference "J?") (unit 1) (value "ACT COLD") (footprint "")
     )
     (path "/6d7df23a-0810-4327-8a09-0091cb17fdd4/bf961f8c-33c7-4f8f-96a9-ad7ced2de25d"
-      (reference "J?") (unit 1) (value "ARM") (footprint "")
+      (reference "J?") (unit 1) (value "ENERGIZE") (footprint "")
     )
     (path "/fb8ad72d-4567-40d4-a185-735199b25125/f421939d-f41b-4677-be07-4ac7167b129d"
       (reference "J?") (unit 1) (value "ACT CH5") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal")
     )
     (path "/6d7df23a-0810-4327-8a09-0091cb17fdd4/3289038b-8941-4b8f-a3ce-d0287a5ba46b"
       (reference "K?") (unit 1) (value "J115F11C") (footprint "actuation:J115F11C")
+    )
+    (path "/6d7df23a-0810-4327-8a09-0091cb17fdd4/dd3b1786-c9bf-4f32-9915-af391b5d8385"
+      (reference "Q?") (unit 1) (value "NMOS") (footprint "")
     )
     (path "/fb8ad72d-4567-40d4-a185-735199b25125/00b8d8ac-1587-4b47-ac54-7fa0824bc6ae"
       (reference "R?") (unit 1) (value "270R") (footprint "Resistor_SMD:R_0603_1608Metric")
@@ -2793,6 +2817,9 @@
     (path "/fb8ad72d-4567-40d4-a185-735199b25125/612ce943-0957-43ed-bf9d-78864cb256f2"
       (reference "R?") (unit 1) (value "270R") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
+    (path "/6d7df23a-0810-4327-8a09-0091cb17fdd4/67b458ce-0b8e-47ba-beef-a2c310ae1fa4"
+      (reference "R?") (unit 1) (value "10k") (footprint "")
+    )
     (path "/2330c4d7-2ab7-4b99-8e5d-6a68e3c59825/6b502644-c462-4a3a-9812-5889e8f129b4"
       (reference "R?") (unit 1) (value "270R") (footprint "")
     )
@@ -2861,6 +2888,9 @@
     )
     (path "/2330c4d7-2ab7-4b99-8e5d-6a68e3c59825/c1ac1a6e-c3e3-47ac-b920-a908da745c17"
       (reference "R?") (unit 1) (value "47k") (footprint "")
+    )
+    (path "/6d7df23a-0810-4327-8a09-0091cb17fdd4/c21ab7f7-d002-4e01-858a-d35c7fca5bb3"
+      (reference "R?") (unit 1) (value "270R") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/2330c4d7-2ab7-4b99-8e5d-6a68e3c59825/c3301fcc-616e-48db-a33d-7d01f5aa56a3"
       (reference "R?") (unit 1) (value "470R") (footprint "")
@@ -3013,6 +3043,9 @@
       (reference "U?") (unit 1) (value "TLP2366") (footprint "actuation:TLP2366")
     )
     (path "/fb8ad72d-4567-40d4-a185-735199b25125/e2c4260e-1daa-4d98-86a2-f59eeb3c5328"
+      (reference "U?") (unit 1) (value "TLP241A") (footprint "actuation:11-5B2S")
+    )
+    (path "/6d7df23a-0810-4327-8a09-0091cb17fdd4/e477359f-1000-445c-bf2d-581b4cbbe1a0"
       (reference "U?") (unit 1) (value "TLP241A") (footprint "actuation:11-5B2S")
     )
     (path "/e55bf119-9472-4dd1-888f-6cdf53da4fd7"

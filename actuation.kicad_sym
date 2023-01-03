@@ -399,7 +399,7 @@
     (property "Footprint" "Package_SON:Infineon_PG-TISON-8-5" (id 2) (at 0 -19.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "https://www.infineon.com/dgdl/Infineon-TLI4971_25_50_75_120-DataSheet-v01_20-EN.pdf" (id 3) (at 0 -21.59 0)
+    (property "Datasheet" "https://www.infineon.com/dgdl/Infineon-TLI4971_25_50_75_120-DataSheet-v01_20-EN.pdf?fileId=5546d462700c0ae6017034d731621b09" (id 3) (at 0 -21.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "MPN" "TLI4971A050T5UE0001XUMA1" (id 4) (at 0 -24.13 0)

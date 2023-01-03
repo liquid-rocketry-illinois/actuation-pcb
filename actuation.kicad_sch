@@ -1270,7 +1270,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 12d66270-3638-4cf3-9815-e22ce6e3db78)
   )
-  (text "500mA output LDO" (at 234.95 19.05 0)
+  (text "500mA output LDO" (at 234.95 57.15 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 46da47a8-b867-41d3-9e32-6bbdc760b26e)
   )
@@ -1309,8 +1309,8 @@
     (effects (font (size 2 2) bold) (justify left bottom))
     (uuid f8bc02cd-3818-4772-a984-2071ba94bb01)
   )
-  (text "Estimated 3.3V consumption:\n6mA combined through pullup/pulldowns\n55mA on differential lines when driven"
-    (at 119.38 92.71 0)
+  (text "Differential I2C buffer\n\nEstimated 3.3V consumption:\n6mA combined through pullup/pulldowns\n55mA on differential lines when driven"
+    (at 116.84 95.25 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid f9ec3bfd-5e14-4a16-831b-ec544a55333c)
   )

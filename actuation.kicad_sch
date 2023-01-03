@@ -1266,6 +1266,10 @@
     (uuid fb3a2d61-9e70-44f0-af13-08cd7a3fd0f1)
   )
 
+  (text "500mA output" (at 237.49 17.78 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 46da47a8-b867-41d3-9e32-6bbdc760b26e)
+  )
   (text "Interfacing" (at 17.78 102.87 0)
     (effects (font (size 2 2) bold) (justify left bottom))
     (uuid 4830aba3-b3a4-431f-a484-2cd005cd8d4f)
@@ -1278,6 +1282,11 @@
     (at 78.74 31.75 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 5dbfa2f3-0549-45f6-bce4-0fc806abed81)
+  )
+  (text "Only ground the DSUB on one side, \nprobably ground it at the C&C"
+    (at 38.1 71.12 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 633bc418-2d42-4f44-9c71-04cda3ec236b)
   )
   (text "I2C addresses:\nActuator GPIO 1-8: 0x20\nActuator GPIO 9-16: 0x21\nFeedback GPIO: 0x23 \nCurrent sense ADC: 0x48-0x4F"
     (at 83.82 148.59 0)

@@ -2715,7 +2715,7 @@
     (uuid 087f5011-9ae0-4841-9129-9ca10bccd068)
   )
   (text "SSRs rated for 2A output, trigger with 5-25mA\nForward voltage of internal LED is 1.1-1.4V\n~7.5mA nominal current draw per channel\n 8 channels: 16A output,  60mA input\n16 channels: 32A output, 120mA input\n\n"
-    (at 66.04 27.94 0)
+    (at 68.58 27.94 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 34838aa8-c7df-49c9-a727-8562bf0790d6)
   )

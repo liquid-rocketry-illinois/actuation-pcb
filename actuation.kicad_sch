@@ -2639,6 +2639,9 @@
     (path "/6d7df23a-0810-4327-8a09-0091cb17fdd4/470f3bde-2ef8-426f-ab41-27673864eb04"
       (reference "#PWR?") (unit 1) (value "GNDPWR") (footprint "")
     )
+    (path "/6d7df23a-0810-4327-8a09-0091cb17fdd4/5ee9f7ea-68ed-4c8a-b638-8a59ee30a19b"
+      (reference "#PWR?") (unit 1) (value "GNDPWR") (footprint "")
+    )
     (path "/6d7df23a-0810-4327-8a09-0091cb17fdd4/835a33ea-c24c-447f-b905-99c1d649856d"
       (reference "#PWR?") (unit 1) (value "GNDPWR") (footprint "")
     )
@@ -2922,22 +2925,22 @@
       (reference "D33") (unit 1) (value "ACT CH16") (footprint "LED_SMD:LED_0603_1608Metric")
     )
     (path "/2330c4d7-2ab7-4b99-8e5d-6a68e3c59825/5938ce14-a948-4207-8ce3-fef86c436abb"
-      (reference "D35") (unit 1) (value "CHK ALIVE") (footprint "LED_SMD:LED_0603_1608Metric")
+      (reference "D35") (unit 1) (value "CHK FB") (footprint "LED_SMD:LED_0603_1608Metric")
     )
     (path "/2330c4d7-2ab7-4b99-8e5d-6a68e3c59825/46dd4c9b-3f22-49ba-a9af-c253665576fe"
-      (reference "D36") (unit 1) (value "CHK SAFE") (footprint "LED_SMD:LED_0603_1608Metric")
+      (reference "D36") (unit 1) (value "CHK ARM") (footprint "LED_SMD:LED_0603_1608Metric")
     )
     (path "/2330c4d7-2ab7-4b99-8e5d-6a68e3c59825/9a6e2769-b8d5-42c9-b6ad-30f75ac2cdd5"
-      (reference "D37") (unit 1) (value "FB CH2") (footprint "LED_SMD:LED_0603_1608Metric")
+      (reference "D37") (unit 1) (value "FB CH1") (footprint "LED_SMD:LED_0603_1608Metric")
     )
     (path "/2330c4d7-2ab7-4b99-8e5d-6a68e3c59825/7b622c64-bb28-4174-9aeb-271134135418"
-      (reference "D38") (unit 1) (value "FB CH3") (footprint "LED_SMD:LED_0603_1608Metric")
+      (reference "D38") (unit 1) (value "FB CH2") (footprint "LED_SMD:LED_0603_1608Metric")
     )
     (path "/2330c4d7-2ab7-4b99-8e5d-6a68e3c59825/b23b4a24-39a6-4dd1-a65a-abc1d8dffaea"
-      (reference "D39") (unit 1) (value "FB CH4") (footprint "LED_SMD:LED_0603_1608Metric")
+      (reference "D39") (unit 1) (value "FB CH3") (footprint "LED_SMD:LED_0603_1608Metric")
     )
     (path "/2330c4d7-2ab7-4b99-8e5d-6a68e3c59825/50634f5a-80e9-427f-8142-ccffdf6f1e9d"
-      (reference "D40") (unit 1) (value "FB CH5") (footprint "LED_SMD:LED_0603_1608Metric")
+      (reference "D40") (unit 1) (value "FB CH4") (footprint "LED_SMD:LED_0603_1608Metric")
     )
     (path "/2330c4d7-2ab7-4b99-8e5d-6a68e3c59825/5d376c9b-b293-409e-bdfd-641a47d7dfbd"
       (reference "D41") (unit 1) (value "VDET CH1") (footprint "LED_SMD:LED_0603_1608Metric")
@@ -2959,6 +2962,9 @@
     )
     (path "/6d7df23a-0810-4327-8a09-0091cb17fdd4/a59bd1be-15ab-4127-a507-3dba6741c000"
       (reference "D?") (unit 1) (value "FB PWR") (footprint "LED_SMD:LED_0603_1608Metric")
+    )
+    (path "/6d7df23a-0810-4327-8a09-0091cb17fdd4/d43331f4-a74d-4e03-b7fc-75bb7f2830d9"
+      (reference "D?") (unit 1) (value "ARM") (footprint "LED_SMD:LED_0603_1608Metric")
     )
     (path "/e8f74dd7-19c8-4b0c-ad93-af053471099d"
       (reference "D?") (unit 1) (value "PESD3V3L1BA,115") (footprint "Diode_SMD:D_SOD-323")
@@ -3304,6 +3310,9 @@
     )
     (path "/6d7df23a-0810-4327-8a09-0091cb17fdd4/30ccab89-093e-4b77-9994-3fa7f827e942"
       (reference "R?") (unit 1) (value "5.1k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/6d7df23a-0810-4327-8a09-0091cb17fdd4/474f6000-32f3-4752-be93-2d03d87e580b"
+      (reference "R?") (unit 1) (value "470R") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/6d7df23a-0810-4327-8a09-0091cb17fdd4/4d36bc07-8c35-472a-9b85-5679f366f86b"
       (reference "R?") (unit 1) (value "22.1k") (footprint "Resistor_SMD:R_0603_1608Metric")

@@ -26,4 +26,9 @@
   (pad "2" smd roundrect (at -4.35 1.27) (size 1.6 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2) (tstamp debc788e-e8e9-4bbc-a335-555d5f1297e4))
   (pad "3" smd roundrect (at 4.35 1.27) (size 1.6 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2) (tstamp f7a8036a-6266-4860-b35b-4bbee0e45819))
   (pad "4" smd roundrect (at 4.35 -1.27) (size 1.6 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2) (tstamp c53e449f-5d2e-4837-924c-e90dbe4a8ac8))
+  (model "${KIPRJMOD}/actuation-3d/TLP241A.step"
+    (offset (xyz 0 0 1.9))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )

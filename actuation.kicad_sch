@@ -2952,52 +2952,52 @@
       (reference "J1") (unit 1) (value "ACTUATION") (footprint "actuation:182-009-213R561")
     )
     (path "/fb8ad72d-4567-40d4-a185-735199b25125/9f1f7c18-0b54-45ea-948d-192c45d7436c"
-      (reference "J2") (unit 1) (value "ACT CH1") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal")
+      (reference "J2") (unit 1) (value "ACT CH1") (footprint "actuation:1989447")
     )
     (path "/fb8ad72d-4567-40d4-a185-735199b25125/0b300db6-cc0d-4809-bb58-1da1e7c968c0"
-      (reference "J3") (unit 1) (value "ACT CH2") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal")
+      (reference "J3") (unit 1) (value "ACT CH2") (footprint "actuation:1989447")
     )
     (path "/fb8ad72d-4567-40d4-a185-735199b25125/06c800b5-fec7-4263-9a9e-249e3baaa3cf"
-      (reference "J4") (unit 1) (value "ACT CH3") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal")
+      (reference "J4") (unit 1) (value "ACT CH3") (footprint "actuation:1989447")
     )
     (path "/fb8ad72d-4567-40d4-a185-735199b25125/8a11a001-07f6-4a81-9b77-ffcef3553d19"
-      (reference "J5") (unit 1) (value "ACT CH4") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal")
+      (reference "J5") (unit 1) (value "ACT CH4") (footprint "actuation:1989447")
     )
     (path "/fb8ad72d-4567-40d4-a185-735199b25125/f421939d-f41b-4677-be07-4ac7167b129d"
-      (reference "J6") (unit 1) (value "ACT CH5") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal")
+      (reference "J6") (unit 1) (value "ACT CH5") (footprint "actuation:1989447")
     )
     (path "/fb8ad72d-4567-40d4-a185-735199b25125/b001e2cd-d943-4258-932c-21b7a0e4e2bf"
-      (reference "J7") (unit 1) (value "ACT CH6") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal")
+      (reference "J7") (unit 1) (value "ACT CH6") (footprint "actuation:1989447")
     )
     (path "/fb8ad72d-4567-40d4-a185-735199b25125/22aa15ef-0069-412a-8a79-a14710ff7c88"
-      (reference "J8") (unit 1) (value "ACT CH7") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal")
+      (reference "J8") (unit 1) (value "ACT CH7") (footprint "actuation:1989447")
     )
     (path "/fb8ad72d-4567-40d4-a185-735199b25125/1599112a-dd2b-4c99-b32d-fd074d29b607"
-      (reference "J9") (unit 1) (value "ACT CH8") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal")
+      (reference "J9") (unit 1) (value "ACT CH8") (footprint "actuation:1989447")
     )
     (path "/fb8ad72d-4567-40d4-a185-735199b25125/947c2909-e8bb-414b-b22f-a25c39fc9a50"
-      (reference "J10") (unit 1) (value "ACT CH9") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal")
+      (reference "J10") (unit 1) (value "ACT CH9") (footprint "actuation:1989447")
     )
     (path "/fb8ad72d-4567-40d4-a185-735199b25125/98f92b8d-9ef1-4f39-9cea-d563cce44679"
-      (reference "J11") (unit 1) (value "ACT CH10") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal")
+      (reference "J11") (unit 1) (value "ACT CH10") (footprint "actuation:1989447")
     )
     (path "/fb8ad72d-4567-40d4-a185-735199b25125/3f22fe9d-42d0-47bd-969c-c55e86248470"
-      (reference "J12") (unit 1) (value "ACT CH11") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal")
+      (reference "J12") (unit 1) (value "ACT CH11") (footprint "actuation:1989447")
     )
     (path "/fb8ad72d-4567-40d4-a185-735199b25125/184e66c6-1679-404e-8e0b-36f8fccf3df6"
-      (reference "J13") (unit 1) (value "ACT CH12") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal")
+      (reference "J13") (unit 1) (value "ACT CH12") (footprint "actuation:1989447")
     )
     (path "/fb8ad72d-4567-40d4-a185-735199b25125/222876db-7cf3-48a9-8dd1-016cb0b793fd"
-      (reference "J14") (unit 1) (value "ACT CH13") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal")
+      (reference "J14") (unit 1) (value "ACT CH13") (footprint "actuation:1989447")
     )
     (path "/fb8ad72d-4567-40d4-a185-735199b25125/0783e9c1-1f32-4221-8270-a17674b19c42"
-      (reference "J15") (unit 1) (value "ACT CH14") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal")
+      (reference "J15") (unit 1) (value "ACT CH14") (footprint "actuation:1989447")
     )
     (path "/fb8ad72d-4567-40d4-a185-735199b25125/ac94e932-873c-48e6-ab95-0c73190e42c3"
-      (reference "J16") (unit 1) (value "ACT CH15") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal")
+      (reference "J16") (unit 1) (value "ACT CH15") (footprint "actuation:1989447")
     )
     (path "/fb8ad72d-4567-40d4-a185-735199b25125/68949876-3fbc-4d09-bab9-c2206b911579"
-      (reference "J17") (unit 1) (value "ACT CH16") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal")
+      (reference "J17") (unit 1) (value "ACT CH16") (footprint "actuation:1989447")
     )
     (path "/2330c4d7-2ab7-4b99-8e5d-6a68e3c59825/186d9e87-633d-413f-972f-e11ab9764b0b"
       (reference "J18") (unit 1) (value "FB CH1") (footprint "actuation:1751251")
@@ -3021,22 +3021,22 @@
       (reference "J24") (unit 1) (value "PWR IN") (footprint "actuation:1773976")
     )
     (path "/6d7df23a-0810-4327-8a09-0091cb17fdd4/4b8102e0-40de-4b10-b529-0756f5a0aefe"
-      (reference "J25") (unit 1) (value "PWR PROT") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal")
+      (reference "J25") (unit 1) (value "PWR PROT") (footprint "actuation:1989447")
     )
     (path "/6d7df23a-0810-4327-8a09-0091cb17fdd4/89fd9306-514b-4a08-adf8-2bea4e79d2a1"
-      (reference "J26") (unit 1) (value "PWR 3.3V") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal")
+      (reference "J26") (unit 1) (value "PWR 3.3V") (footprint "actuation:1989447")
     )
     (path "/6d7df23a-0810-4327-8a09-0091cb17fdd4/494c03df-6459-4ba5-8b16-ebc1ce8ee929"
       (reference "J27") (unit 1) (value "SAFING") (footprint "actuation:1773976")
     )
     (path "/6d7df23a-0810-4327-8a09-0091cb17fdd4/152548fa-3aa6-446f-8c00-d4ce48581397"
-      (reference "J28") (unit 1) (value "ARM") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal")
+      (reference "J28") (unit 1) (value "ARM") (footprint "actuation:1989447")
     )
     (path "/6d7df23a-0810-4327-8a09-0091cb17fdd4/c8f0799d-64bf-4127-a02b-49a2765b5f8f"
-      (reference "J29") (unit 1) (value "ACT HOT") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal")
+      (reference "J29") (unit 1) (value "ACT HOT") (footprint "actuation:1989447")
     )
     (path "/6d7df23a-0810-4327-8a09-0091cb17fdd4/f7c90e1b-29df-4b03-8cc2-eddba8f49b87"
-      (reference "J30") (unit 1) (value "ACT COLD") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal")
+      (reference "J30") (unit 1) (value "ACT COLD") (footprint "actuation:1989447")
     )
     (path "/6d7df23a-0810-4327-8a09-0091cb17fdd4/3289038b-8941-4b8f-a3ce-d0287a5ba46b"
       (reference "K1") (unit 1) (value "J115F11C") (footprint "actuation:J115F11C")
@@ -3336,10 +3336,10 @@
       (reference "R94") (unit 1) (value "470R") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/2330c4d7-2ab7-4b99-8e5d-6a68e3c59825/1f605c80-3417-49d9-9a16-be1b4dc6bc7d"
-      (reference "RV1") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "RV1") (unit 1) (value "10k") (footprint "Potentiometer_SMD:Potentiometer_Bourns_3224W_Vertical")
     )
     (path "/2330c4d7-2ab7-4b99-8e5d-6a68e3c59825/8b61dc9e-0456-43cb-98e9-4beeae4ff1a0"
-      (reference "RV2") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "RV2") (unit 1) (value "10k") (footprint "Potentiometer_SMD:Potentiometer_Bourns_3224W_Vertical")
     )
     (path "/9b0439aa-b796-4ae0-a275-c210befba1ed"
       (reference "U1") (unit 1) (value "TPD4E02B04DQA") (footprint "Package_SON:USON-10_2.5x1.0mm_P0.5mm")
@@ -3456,7 +3456,7 @@
       (reference "U38") (unit 1) (value "TLP241A") (footprint "actuation:TLP241A")
     )
     (path "/6d7df23a-0810-4327-8a09-0091cb17fdd4/448e03ac-0779-4f5d-8d7b-bd739a63c3f2"
-      (reference "U39") (unit 1) (value "LP5912-3.3DRV") (footprint "Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm_ThermalVias")
+      (reference "U39") (unit 1) (value "LP5912-3.3DRV") (footprint "Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm")
     )
   )
 )

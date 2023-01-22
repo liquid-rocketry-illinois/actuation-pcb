@@ -3135,19 +3135,19 @@
       (reference "J17") (unit 1) (value "ACT CH16") (footprint "Connector_AMASS:AMASS_XT30U-M_1x02_P5.0mm_Vertical")
     )
     (path "/2330c4d7-2ab7-4b99-8e5d-6a68e3c59825/75716198-79c0-43b9-84ec-8a4194eed539"
-      (reference "J18") (unit 1) (value "FB CH1") (footprint "")
+      (reference "J18") (unit 1) (value "FB CH1") (footprint "actuation:1751251")
     )
     (path "/2330c4d7-2ab7-4b99-8e5d-6a68e3c59825/9ae8adc9-aff6-4790-a583-7a7ba48ce076"
-      (reference "J19") (unit 1) (value "FB CH2") (footprint "")
+      (reference "J19") (unit 1) (value "FB CH2") (footprint "actuation:1751251")
     )
     (path "/2330c4d7-2ab7-4b99-8e5d-6a68e3c59825/1c7e212c-734c-4de6-8136-e158a3794bc4"
-      (reference "J20") (unit 1) (value "FB CH3") (footprint "")
+      (reference "J20") (unit 1) (value "FB CH3") (footprint "actuation:1751251")
     )
     (path "/2330c4d7-2ab7-4b99-8e5d-6a68e3c59825/afd4be4d-cff1-49d7-a783-dc34a4582d21"
-      (reference "J21") (unit 1) (value "VDET CH1") (footprint "")
+      (reference "J21") (unit 1) (value "VDET CH1") (footprint "actuation:1751248")
     )
     (path "/2330c4d7-2ab7-4b99-8e5d-6a68e3c59825/3489a554-f747-4f64-9c41-a713f2caedd2"
-      (reference "J22") (unit 1) (value "VDET CH2") (footprint "")
+      (reference "J22") (unit 1) (value "VDET CH2") (footprint "actuation:1751248")
     )
     (path "/6d7df23a-0810-4327-8a09-0091cb17fdd4/44ae6b84-0dae-4fbb-ad67-56714943c618"
       (reference "J23") (unit 1) (value "PWR IN") (footprint "actuation:XT90PW-M")
@@ -3162,7 +3162,7 @@
       (reference "J26") (unit 1) (value "SAFETY") (footprint "actuation:XT90PW-M")
     )
     (path "/6d7df23a-0810-4327-8a09-0091cb17fdd4/152548fa-3aa6-446f-8c00-d4ce48581397"
-      (reference "J27") (unit 1) (value "ARM") (footprint "actuation:1989447")
+      (reference "J27") (unit 1) (value "ARM") (footprint "Connector_AMASS:AMASS_XT60-M_1x02_P7.20mm_Vertical")
     )
     (path "/6d7df23a-0810-4327-8a09-0091cb17fdd4/c8f0799d-64bf-4127-a02b-49a2765b5f8f"
       (reference "J28") (unit 1) (value "ACT HOT") (footprint "Connector_AMASS:AMASS_XT60-M_1x02_P7.20mm_Vertical")

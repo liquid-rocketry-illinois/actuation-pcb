@@ -38,8 +38,8 @@
   (fp_line (start -10.4 -16.35) (end -10.4 -2.15) (layer "F.Fab") (width 0.1) (tstamp da862bae-4511-4bb9-b18d-fa60a2737feb))
   (pad "" thru_hole rect (at -9.45 -9.4) (size 1 2.2) (drill oval 0.6 1.8) (layers *.Cu *.Mask) (tstamp 72366acb-6c86-4134-89df-01ed6e4dc8e0))
   (pad "" thru_hole rect (at 9.45 -9.4) (size 1 2.2) (drill oval 0.6 1.8) (layers *.Cu *.Mask) (tstamp de552ae9-cde6-4643-8cc7-9de2579dadae))
-  (pad "1" thru_hole roundrect (at -5.45 0) (size 5 5) (drill 3.8) (layers *.Cu *.Mask) (roundrect_rratio 0.25) (tstamp f934a442-23d6-4e5b-908f-bb9199ad6f8b))
-  (pad "2" thru_hole circle (at 5.45 0) (size 5 5) (drill 3.8) (layers *.Cu *.Mask) (tstamp 386faf3f-2adf-472a-84bf-bd511edf2429))
+  (pad "1" thru_hole circle (at 5.45 0) (size 5 5) (drill 3.8) (layers *.Cu *.Mask) (tstamp 386faf3f-2adf-472a-84bf-bd511edf2429))
+  (pad "2" thru_hole roundrect (at -5.45 0) (size 5 5) (drill 3.8) (layers *.Cu *.Mask) (roundrect_rratio 0.25) (tstamp f934a442-23d6-4e5b-908f-bb9199ad6f8b))
   (model "${KIPRJMOD}/actuation-3d/XT90PW-M.step"
     (offset (xyz 0 9.5 0))
     (scale (xyz 1 1 1))

@@ -3087,67 +3087,67 @@
       (reference "J1") (unit 1) (value "ACTUATION") (footprint "actuation:182-009-213R561")
     )
     (path "/fb8ad72d-4567-40d4-a185-735199b25125/9f1f7c18-0b54-45ea-948d-192c45d7436c"
-      (reference "J2") (unit 1) (value "ACT CH1") (footprint "Connector_AMASS:AMASS_XT30U-M_1x02_P5.0mm_Vertical")
+      (reference "J2") (unit 1) (value "ACT CH1") (footprint "actuation:XT30U-M")
     )
     (path "/fb8ad72d-4567-40d4-a185-735199b25125/180cc893-5d84-4876-8b91-deef554aa2ed"
-      (reference "J3") (unit 1) (value "ACT CH2") (footprint "Connector_AMASS:AMASS_XT30U-M_1x02_P5.0mm_Vertical")
+      (reference "J3") (unit 1) (value "ACT CH2") (footprint "actuation:XT30U-M")
     )
     (path "/fb8ad72d-4567-40d4-a185-735199b25125/59b2bacf-415a-4a90-84f4-eeaee808bddf"
-      (reference "J4") (unit 1) (value "ACT CH3") (footprint "Connector_AMASS:AMASS_XT30U-M_1x02_P5.0mm_Vertical")
+      (reference "J4") (unit 1) (value "ACT CH3") (footprint "actuation:XT30U-M")
     )
     (path "/fb8ad72d-4567-40d4-a185-735199b25125/99fb18b9-d6a9-4009-8233-3a1bbf3c3dcb"
-      (reference "J5") (unit 1) (value "ACT CH4") (footprint "Connector_AMASS:AMASS_XT30U-M_1x02_P5.0mm_Vertical")
+      (reference "J5") (unit 1) (value "ACT CH4") (footprint "actuation:XT30U-M")
     )
     (path "/fb8ad72d-4567-40d4-a185-735199b25125/04dd10e8-36c5-430c-9d1d-5ad557ccdd61"
-      (reference "J6") (unit 1) (value "ACT CH5") (footprint "Connector_AMASS:AMASS_XT30U-M_1x02_P5.0mm_Vertical")
+      (reference "J6") (unit 1) (value "ACT CH5") (footprint "actuation:XT30U-M")
     )
     (path "/fb8ad72d-4567-40d4-a185-735199b25125/2325e4ea-a9e1-4ecc-85d5-67b43fb1c90a"
-      (reference "J7") (unit 1) (value "ACT CH6") (footprint "Connector_AMASS:AMASS_XT30U-M_1x02_P5.0mm_Vertical")
+      (reference "J7") (unit 1) (value "ACT CH6") (footprint "actuation:XT30U-M")
     )
     (path "/fb8ad72d-4567-40d4-a185-735199b25125/44cad894-be2f-4add-8f6f-e9c557cfe974"
-      (reference "J8") (unit 1) (value "ACT CH7") (footprint "Connector_AMASS:AMASS_XT30U-M_1x02_P5.0mm_Vertical")
+      (reference "J8") (unit 1) (value "ACT CH7") (footprint "actuation:XT30U-M")
     )
     (path "/fb8ad72d-4567-40d4-a185-735199b25125/9ede1b1f-752c-4749-9665-cf9299688a90"
-      (reference "J9") (unit 1) (value "ACT CH8") (footprint "Connector_AMASS:AMASS_XT30U-M_1x02_P5.0mm_Vertical")
+      (reference "J9") (unit 1) (value "ACT CH8") (footprint "actuation:XT30U-M")
     )
     (path "/fb8ad72d-4567-40d4-a185-735199b25125/76f00e0a-685a-4806-ac3a-321617d7ffd9"
-      (reference "J10") (unit 1) (value "ACT CH9") (footprint "Connector_AMASS:AMASS_XT30U-M_1x02_P5.0mm_Vertical")
+      (reference "J10") (unit 1) (value "ACT CH9") (footprint "actuation:XT30U-M")
     )
     (path "/fb8ad72d-4567-40d4-a185-735199b25125/1d1252a6-51bf-4bd2-9be4-1d053c04a380"
-      (reference "J11") (unit 1) (value "ACT CH10") (footprint "Connector_AMASS:AMASS_XT30U-M_1x02_P5.0mm_Vertical")
+      (reference "J11") (unit 1) (value "ACT CH10") (footprint "actuation:XT30U-M")
     )
     (path "/fb8ad72d-4567-40d4-a185-735199b25125/451b9293-341b-4714-bb8a-1a96244b212b"
-      (reference "J12") (unit 1) (value "ACT CH11") (footprint "Connector_AMASS:AMASS_XT30U-M_1x02_P5.0mm_Vertical")
+      (reference "J12") (unit 1) (value "ACT CH11") (footprint "actuation:XT30U-M")
     )
     (path "/fb8ad72d-4567-40d4-a185-735199b25125/7fac2c04-a2dd-4680-91aa-73218b7eea6f"
-      (reference "J13") (unit 1) (value "ACT CH12") (footprint "Connector_AMASS:AMASS_XT30U-M_1x02_P5.0mm_Vertical")
+      (reference "J13") (unit 1) (value "ACT CH12") (footprint "actuation:XT30U-M")
     )
     (path "/fb8ad72d-4567-40d4-a185-735199b25125/bcb77364-e270-482d-a740-81ec480500c3"
-      (reference "J14") (unit 1) (value "ACT CH13") (footprint "Connector_AMASS:AMASS_XT30U-M_1x02_P5.0mm_Vertical")
+      (reference "J14") (unit 1) (value "ACT CH13") (footprint "actuation:XT30U-M")
     )
     (path "/fb8ad72d-4567-40d4-a185-735199b25125/f43b6d93-4676-4fa3-8d24-0977e3cb3387"
-      (reference "J15") (unit 1) (value "ACT CH14") (footprint "Connector_AMASS:AMASS_XT30U-M_1x02_P5.0mm_Vertical")
+      (reference "J15") (unit 1) (value "ACT CH14") (footprint "actuation:XT30U-M")
     )
     (path "/fb8ad72d-4567-40d4-a185-735199b25125/8f447a18-bd72-4592-89d1-2fec9eab02b0"
-      (reference "J16") (unit 1) (value "ACT CH15") (footprint "Connector_AMASS:AMASS_XT30U-M_1x02_P5.0mm_Vertical")
+      (reference "J16") (unit 1) (value "ACT CH15") (footprint "actuation:XT30U-M")
     )
     (path "/fb8ad72d-4567-40d4-a185-735199b25125/2ac75f59-7619-41e9-b00a-a01c2d76be9c"
-      (reference "J17") (unit 1) (value "ACT CH16") (footprint "Connector_AMASS:AMASS_XT30U-M_1x02_P5.0mm_Vertical")
+      (reference "J17") (unit 1) (value "ACT CH16") (footprint "actuation:XT30U-M")
     )
     (path "/2330c4d7-2ab7-4b99-8e5d-6a68e3c59825/75716198-79c0-43b9-84ec-8a4194eed539"
-      (reference "J18") (unit 1) (value "FB CH1") (footprint "actuation:1751251")
+      (reference "J18") (unit 1) (value "FB CH1") (footprint "actuation:1935174")
     )
     (path "/2330c4d7-2ab7-4b99-8e5d-6a68e3c59825/9ae8adc9-aff6-4790-a583-7a7ba48ce076"
-      (reference "J19") (unit 1) (value "FB CH2") (footprint "actuation:1751251")
+      (reference "J19") (unit 1) (value "FB CH2") (footprint "actuation:1935174")
     )
     (path "/2330c4d7-2ab7-4b99-8e5d-6a68e3c59825/1c7e212c-734c-4de6-8136-e158a3794bc4"
-      (reference "J20") (unit 1) (value "FB CH3") (footprint "actuation:1751251")
+      (reference "J20") (unit 1) (value "FB CH3") (footprint "actuation:1935174")
     )
     (path "/2330c4d7-2ab7-4b99-8e5d-6a68e3c59825/afd4be4d-cff1-49d7-a783-dc34a4582d21"
-      (reference "J21") (unit 1) (value "VDET CH1") (footprint "actuation:1751248")
+      (reference "J21") (unit 1) (value "VDET CH1") (footprint "actuation:1935161")
     )
     (path "/2330c4d7-2ab7-4b99-8e5d-6a68e3c59825/3489a554-f747-4f64-9c41-a713f2caedd2"
-      (reference "J22") (unit 1) (value "VDET CH2") (footprint "actuation:1751248")
+      (reference "J22") (unit 1) (value "VDET CH2") (footprint "actuation:1935161")
     )
     (path "/6d7df23a-0810-4327-8a09-0091cb17fdd4/44ae6b84-0dae-4fbb-ad67-56714943c618"
       (reference "J23") (unit 1) (value "PWR IN") (footprint "actuation:XT90PW-M")

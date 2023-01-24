@@ -3679,6 +3679,15 @@
     (uuid fa98112e-3e0c-4d1f-be79-93f76a9a4423)
   )
 
+  (label "COIL+" (at 264.16 43.18 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 420e4c64-a081-4a27-a079-9b891081a6ed)
+  )
+  (label "COIL-" (at 264.16 55.88 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 7b5162ec-1269-4d6f-aab5-5ca8f23c5e3d)
+  )
+
   (global_label "VCOLD" (shape input) (at 318.77 170.18 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 5c04faba-166d-4d34-8595-fd9ac8ad2011)

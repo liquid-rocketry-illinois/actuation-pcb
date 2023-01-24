@@ -37,4 +37,9 @@
   (pad "3" thru_hole circle (at 4.4 9.25) (size 1.65 1.65) (drill 1.1) (layers *.Cu *.Mask) (tstamp f90bd4ca-68d8-4b44-85ec-48e4d120caa0))
   (pad "4" thru_hole circle (at 8.2 -6.05) (size 3.116 3.116) (drill 2.1) (layers *.Cu *.Mask) (tstamp 450cc77e-1678-4ccd-83d4-cd52d1ed884c))
   (pad "5" thru_hole circle (at 8.2 -13.65) (size 3.116 3.116) (drill 2.1) (layers *.Cu *.Mask) (tstamp cbff1418-213c-416b-8b65-1b0adbf3b9d0))
+  (model "${KIPRJMOD}/actuation-3d/Relay_J115F.step"
+    (offset (xyz 10.75 -16 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 180 180))
+  )
 )

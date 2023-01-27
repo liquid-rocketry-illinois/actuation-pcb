@@ -2732,7 +2732,7 @@
     (uuid a60bc7dd-9a32-43e4-9724-c70b8f119778)
   )
   (text "Adjustable VDET threshold detector.\nHigher potentiometer values correspond to\nlower thresholds. Lowest threshold is 11V."
-    (at 116.84 146.05 0)
+    (at 111.76 143.51 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid ac78fb57-408e-4187-a1cf-a222f6c30e83)
   )

@@ -1935,7 +1935,7 @@
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PESDXL1BA_SER.pdf" (at 21.59 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MPN" "PESD3V3L1BA,115" (at 21.59 109.22 90)
+    (property "MPN" "PESD5V0L1BA,115" (at 21.59 109.22 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 5b907231-dcb6-4097-8aa7-c472f4dede50))
